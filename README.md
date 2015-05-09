@@ -1,6 +1,8 @@
 # ionic-facebook-integration
 integrate ionic framework with phonegap-facebook-plugin
 
+## running step
+
 download sources.
 ```
 git clone https://github.com/todoken/ionic-facebook-integration.git
@@ -25,7 +27,8 @@ run this app.
 ionic emulate ios
 ```
 
-4. see also
-http://ionicframework.com/
-https://github.com/Wizcorp/phonegap-facebook-plugin
-http://qiita.com/todoken/items/885b880a283ad7d6c433
+## see also
+
+* http://ionicframework.com/
+* https://github.com/Wizcorp/phonegap-facebook-plugin
+* http://qiita.com/todoken/items/885b880a283ad7d6c433
